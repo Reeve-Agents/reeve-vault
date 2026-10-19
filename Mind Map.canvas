@@ -1,0 +1,1870 @@
+{
+	"nodes": [
+		{
+			"id": "home",
+			"type": "file",
+			"file": "Home.md",
+			"x": -210,
+			"y": -80,
+			"width": 420,
+			"height": 160,
+			"color": "1"
+		},
+		{
+			"id": "guide",
+			"type": "file",
+			"file": "00 Meta/Vault Guide.md",
+			"x": -160,
+			"y": 140,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0",
+			"type": "group",
+			"label": "Hackathon",
+			"x": -539,
+			"y": -2655,
+			"width": 1080,
+			"height": 710,
+			"color": "1"
+		},
+		{
+			"id": "g0h0",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon Overview.md",
+			"x": -509,
+			"y": -2595,
+			"width": 1020,
+			"height": 90,
+			"color": "1"
+		},
+		{
+			"id": "g0c0",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon Schedule.md",
+			"x": -509,
+			"y": -2445,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c1",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon Setup Guide.md",
+			"x": -159,
+			"y": -2445,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c2",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon Ideas.md",
+			"x": 191,
+			"y": -2445,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c3",
+			"type": "file",
+			"file": "01 Hackathon/Ideas - Builders.md",
+			"x": -509,
+			"y": -2345,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c4",
+			"type": "file",
+			"file": "01 Hackathon/Ideas - Money.md",
+			"x": -159,
+			"y": -2345,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c5",
+			"type": "file",
+			"file": "01 Hackathon/Ideas - Safe.md",
+			"x": 191,
+			"y": -2345,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c6",
+			"type": "file",
+			"file": "01 Hackathon/Ideas - Computer Use.md",
+			"x": -509,
+			"y": -2245,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c7",
+			"type": "file",
+			"file": "01 Hackathon/Ideas - Always On.md",
+			"x": -159,
+			"y": -2245,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c8",
+			"type": "file",
+			"file": "01 Hackathon/Ideas - Stretch.md",
+			"x": 191,
+			"y": -2245,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c9",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon Resources and Tools.md",
+			"x": -509,
+			"y": -2145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c10",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon FAQ.md",
+			"x": -159,
+			"y": -2145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c11",
+			"type": "file",
+			"file": "01 Hackathon/Hackathon Partner Services.md",
+			"x": 191,
+			"y": -2145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c12",
+			"type": "file",
+			"file": "01 Hackathon/Repo - createos-cli.md",
+			"x": -509,
+			"y": -2045,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g0c13",
+			"type": "file",
+			"file": "01 Hackathon/Repo - createos-claude-plugins.md",
+			"x": -159,
+			"y": -2045,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1",
+			"type": "group",
+			"label": "Stripe Projects",
+			"x": 897,
+			"y": -2296,
+			"width": 1080,
+			"height": 610,
+			"color": "5"
+		},
+		{
+			"id": "g1h0",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects.md",
+			"x": 927,
+			"y": -2236,
+			"width": 1020,
+			"height": 90,
+			"color": "5"
+		},
+		{
+			"id": "g1c0",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Getting Started.md",
+			"x": 927,
+			"y": -2086,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c1",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Commands.md",
+			"x": 1277,
+			"y": -2086,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c2",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Providers.md",
+			"x": 1627,
+			"y": -2086,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c3",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Environments and Credentials.md",
+			"x": 927,
+			"y": -1986,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c4",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Billing and Spend Limits.md",
+			"x": 1277,
+			"y": -1986,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c5",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Templates.md",
+			"x": 1627,
+			"y": -1986,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c6",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Agent Integration.md",
+			"x": 927,
+			"y": -1886,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c7",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Provisioning API.md",
+			"x": 1277,
+			"y": -1886,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c8",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Paid Tier Countries.md",
+			"x": 1627,
+			"y": -1886,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c9",
+			"type": "file",
+			"file": "02 Stripe Projects/Stripe Projects - Facilitator Countries.md",
+			"x": 927,
+			"y": -1786,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g1c10",
+			"type": "file",
+			"file": "03 CreateOS Docs/Services and MPP/CreateOS on Stripe Projects.md",
+			"x": 1277,
+			"y": -1786,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2",
+			"type": "group",
+			"label": "CreateOS Docs",
+			"x": 1949,
+			"y": -1555,
+			"width": 1080,
+			"height": 810,
+			"color": "4"
+		},
+		{
+			"id": "g2h0",
+			"type": "file",
+			"file": "03 CreateOS Docs/CreateOS Docs.md",
+			"x": 1979,
+			"y": -1495,
+			"width": 1020,
+			"height": 90,
+			"color": "4"
+		},
+		{
+			"id": "g2c0",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox.md",
+			"x": 1979,
+			"y": -1345,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c1",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox Quickstart.md",
+			"x": 2329,
+			"y": -1345,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c2",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox Limits.md",
+			"x": 2679,
+			"y": -1345,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c3",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox CLI.md",
+			"x": 1979,
+			"y": -1245,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c4",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox Overview and Concepts.md",
+			"x": 2329,
+			"y": -1245,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c5",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox REST API.md",
+			"x": 2679,
+			"y": -1245,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c6",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox SDK.md",
+			"x": 1979,
+			"y": -1145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c7",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox Integrations.md",
+			"x": 2329,
+			"y": -1145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c8",
+			"type": "file",
+			"file": "03 CreateOS Docs/Sandbox/Docs - Sandbox Security and Self-Hosting.md",
+			"x": 2679,
+			"y": -1145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c9",
+			"type": "file",
+			"file": "03 CreateOS Docs/Studio/Docs - Studio.md",
+			"x": 1979,
+			"y": -1045,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c10",
+			"type": "file",
+			"file": "03 CreateOS Docs/Services and MPP/Docs - Services.md",
+			"x": 2329,
+			"y": -1045,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c11",
+			"type": "file",
+			"file": "03 CreateOS Docs/Services and MPP/Docs - MPP.md",
+			"x": 2679,
+			"y": -1045,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c12",
+			"type": "file",
+			"file": "03 CreateOS Docs/Platform/Docs - CLI.md",
+			"x": 1979,
+			"y": -945,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c13",
+			"type": "file",
+			"file": "03 CreateOS Docs/Platform/Docs - API and MCP.md",
+			"x": 2329,
+			"y": -945,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c14",
+			"type": "file",
+			"file": "03 CreateOS Docs/Platform/Docs - Get Started.md",
+			"x": 2679,
+			"y": -945,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g2c15",
+			"type": "file",
+			"file": "03 CreateOS Docs/Platform/Docs - Integrations.md",
+			"x": 1979,
+			"y": -845,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3",
+			"type": "group",
+			"label": "Products and Pricing",
+			"x": 2335,
+			"y": -355,
+			"width": 1080,
+			"height": 710,
+			"color": "6"
+		},
+		{
+			"id": "g3h0",
+			"type": "file",
+			"file": "04 Products and Pricing/Products.md",
+			"x": 2365,
+			"y": -295,
+			"width": 495,
+			"height": 90,
+			"color": "6"
+		},
+		{
+			"id": "g3h1",
+			"type": "file",
+			"file": "04 Products and Pricing/Pricing.md",
+			"x": 2890,
+			"y": -295,
+			"width": 495,
+			"height": 90,
+			"color": "6"
+		},
+		{
+			"id": "g3c0",
+			"type": "file",
+			"file": "04 Products and Pricing/Product - Sandbox.md",
+			"x": 2365,
+			"y": -145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c1",
+			"type": "file",
+			"file": "04 Products and Pricing/Product - Gateway.md",
+			"x": 2715,
+			"y": -145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c2",
+			"type": "file",
+			"file": "04 Products and Pricing/Product - Agents.md",
+			"x": 3065,
+			"y": -145,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c3",
+			"type": "file",
+			"file": "04 Products and Pricing/Product - CLI.md",
+			"x": 2365,
+			"y": -45,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c4",
+			"type": "file",
+			"file": "04 Products and Pricing/Product - Sandbox Reliability.md",
+			"x": 2715,
+			"y": -45,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c5",
+			"type": "file",
+			"file": "04 Products and Pricing/Pricing - Sandbox.md",
+			"x": 3065,
+			"y": -45,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c6",
+			"type": "file",
+			"file": "04 Products and Pricing/Pricing - Gateway.md",
+			"x": 2365,
+			"y": 55,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c7",
+			"type": "file",
+			"file": "04 Products and Pricing/Security.md",
+			"x": 2715,
+			"y": 55,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c8",
+			"type": "file",
+			"file": "04 Products and Pricing/Sandbox Networking.md",
+			"x": 3065,
+			"y": 55,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c9",
+			"type": "file",
+			"file": "04 Products and Pricing/Egress Governance.md",
+			"x": 2365,
+			"y": 155,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c10",
+			"type": "file",
+			"file": "04 Products and Pricing/Self-Host.md",
+			"x": 2715,
+			"y": 155,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c11",
+			"type": "file",
+			"file": "04 Products and Pricing/For Agents.md",
+			"x": 3065,
+			"y": 155,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g3c12",
+			"type": "file",
+			"file": "04 Products and Pricing/Studio Early Access.md",
+			"x": 2365,
+			"y": 255,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4",
+			"type": "group",
+			"label": "Services",
+			"x": 1949,
+			"y": 894,
+			"width": 1080,
+			"height": 510,
+			"color": "3"
+		},
+		{
+			"id": "g4h0",
+			"type": "file",
+			"file": "05 Services/Services.md",
+			"x": 1979,
+			"y": 954,
+			"width": 1020,
+			"height": 90,
+			"color": "3"
+		},
+		{
+			"id": "g4c0",
+			"type": "file",
+			"file": "05 Services/Service - AI Agents.md",
+			"x": 1979,
+			"y": 1104,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4c1",
+			"type": "file",
+			"file": "05 Services/Service - Generative AI.md",
+			"x": 2329,
+			"y": 1104,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4c2",
+			"type": "file",
+			"file": "05 Services/Service - Computer Vision.md",
+			"x": 2679,
+			"y": 1104,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4c3",
+			"type": "file",
+			"file": "05 Services/Service - AI Strategy.md",
+			"x": 1979,
+			"y": 1204,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4c4",
+			"type": "file",
+			"file": "05 Services/Service - LLM Integration.md",
+			"x": 2329,
+			"y": 1204,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4c5",
+			"type": "file",
+			"file": "05 Services/Service - RAG.md",
+			"x": 2679,
+			"y": 1204,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g4c6",
+			"type": "file",
+			"file": "05 Services/Service - Data and ML.md",
+			"x": 1979,
+			"y": 1304,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5",
+			"type": "group",
+			"label": "Industries",
+			"x": 897,
+			"y": 1736,
+			"width": 1080,
+			"height": 510,
+			"color": "2"
+		},
+		{
+			"id": "g5h0",
+			"type": "file",
+			"file": "06 Industries/Industries.md",
+			"x": 927,
+			"y": 1796,
+			"width": 1020,
+			"height": 90,
+			"color": "2"
+		},
+		{
+			"id": "g5c0",
+			"type": "file",
+			"file": "06 Industries/Industry - Legal.md",
+			"x": 927,
+			"y": 1946,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c1",
+			"type": "file",
+			"file": "06 Industries/Use Cases - Legal.md",
+			"x": 1277,
+			"y": 1946,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c2",
+			"type": "file",
+			"file": "06 Industries/Industry - Manufacturing.md",
+			"x": 1627,
+			"y": 1946,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c3",
+			"type": "file",
+			"file": "06 Industries/Industry - Healthcare.md",
+			"x": 927,
+			"y": 2046,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c4",
+			"type": "file",
+			"file": "06 Industries/Industry - Financial Services.md",
+			"x": 1277,
+			"y": 2046,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c5",
+			"type": "file",
+			"file": "06 Industries/Industry - Telecom.md",
+			"x": 1627,
+			"y": 2046,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c6",
+			"type": "file",
+			"file": "06 Industries/Industry - Marketing.md",
+			"x": 927,
+			"y": 2146,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g5c7",
+			"type": "file",
+			"file": "06 Industries/Industry - Technology.md",
+			"x": 1277,
+			"y": 2146,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g6",
+			"type": "group",
+			"label": "Case Studies and Blog",
+			"x": -539,
+			"y": 2095,
+			"width": 1080,
+			"height": 410,
+			"color": "1"
+		},
+		{
+			"id": "g6h0",
+			"type": "file",
+			"file": "09 Case Studies/Case Studies.md",
+			"x": -509,
+			"y": 2155,
+			"width": 495,
+			"height": 90,
+			"color": "1"
+		},
+		{
+			"id": "g6h1",
+			"type": "file",
+			"file": "10 Blog/Blog.md",
+			"x": 16,
+			"y": 2155,
+			"width": 495,
+			"height": 90,
+			"color": "1"
+		},
+		{
+			"id": "g6c0",
+			"type": "file",
+			"file": "09 Case Studies/Customer Stories.md",
+			"x": -509,
+			"y": 2305,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g6c1",
+			"type": "file",
+			"file": "09 Case Studies/Solution Blueprints.md",
+			"x": -159,
+			"y": 2305,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g6c2",
+			"type": "file",
+			"file": "10 Blog/Guides Blog Index.md",
+			"x": 191,
+			"y": 2305,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g6c3",
+			"type": "file",
+			"file": "10 Blog/Blog Index - Sandbox and Agent Infrastructure.md",
+			"x": -509,
+			"y": 2405,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7",
+			"type": "group",
+			"label": "Integrations and Comparisons",
+			"x": -1977,
+			"y": 1686,
+			"width": 1080,
+			"height": 610,
+			"color": "5"
+		},
+		{
+			"id": "g7h0",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/Integrations.md",
+			"x": -1947,
+			"y": 1746,
+			"width": 495,
+			"height": 90,
+			"color": "5"
+		},
+		{
+			"id": "g7h1",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/Comparisons.md",
+			"x": -1422,
+			"y": 1746,
+			"width": 495,
+			"height": 90,
+			"color": "5"
+		},
+		{
+			"id": "g7c0",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/Integration - Stripe.md",
+			"x": -1947,
+			"y": 1896,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c1",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/Integration - GitHub.md",
+			"x": -1597,
+			"y": 1896,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c2",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/Integration - Slack.md",
+			"x": -1247,
+			"y": 1896,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c3",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/Alternatives.md",
+			"x": -1947,
+			"y": 1996,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c4",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - E2B.md",
+			"x": -1597,
+			"y": 1996,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c5",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - Daytona.md",
+			"x": -1247,
+			"y": 1996,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c6",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - Modal.md",
+			"x": -1947,
+			"y": 2096,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c7",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - Vercel.md",
+			"x": -1597,
+			"y": 2096,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c8",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - Runloop.md",
+			"x": -1247,
+			"y": 2096,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c9",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - Cloudflare.md",
+			"x": -1947,
+			"y": 2196,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c10",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - AWS Lambda MicroVMs.md",
+			"x": -1597,
+			"y": 2196,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g7c11",
+			"type": "file",
+			"file": "07 Integrations and Comparisons/vs - Perplexity.md",
+			"x": -1247,
+			"y": 2196,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8",
+			"type": "group",
+			"label": "Company",
+			"x": -3029,
+			"y": 895,
+			"width": 1080,
+			"height": 510,
+			"color": "3"
+		},
+		{
+			"id": "g8h0",
+			"type": "file",
+			"file": "08 Company/About CreateOS.md",
+			"x": -2999,
+			"y": 955,
+			"width": 1020,
+			"height": 90,
+			"color": "3"
+		},
+		{
+			"id": "g8c0",
+			"type": "file",
+			"file": "08 Company/CreateOS Homepage.md",
+			"x": -2999,
+			"y": 1105,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c1",
+			"type": "file",
+			"file": "08 Company/Contact and Community.md",
+			"x": -2649,
+			"y": 1105,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c2",
+			"type": "file",
+			"file": "08 Company/Brand Handbook.md",
+			"x": -2299,
+			"y": 1105,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c3",
+			"type": "file",
+			"file": "08 Company/CreateOS llms.txt.md",
+			"x": -2999,
+			"y": 1205,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c4",
+			"type": "file",
+			"file": "08 Company/Partners.md",
+			"x": -2649,
+			"y": 1205,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c5",
+			"type": "file",
+			"file": "08 Company/Newsroom.md",
+			"x": -2299,
+			"y": 1205,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c6",
+			"type": "file",
+			"file": "08 Company/Careers.md",
+			"x": -2999,
+			"y": 1305,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g8c7",
+			"type": "file",
+			"file": "08 Company/Examples.md",
+			"x": -2649,
+			"y": 1305,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9",
+			"type": "group",
+			"label": "Brainstorm - Reeve",
+			"x": -3415,
+			"y": -454,
+			"width": 1080,
+			"height": 910,
+			"color": "2"
+		},
+		{
+			"id": "g9h0",
+			"type": "file",
+			"file": "12 Brainstorm/Brainstorm.md",
+			"x": -3385,
+			"y": -394,
+			"width": 495,
+			"height": 90,
+			"color": "2"
+		},
+		{
+			"id": "g9h1",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Overview.md",
+			"x": -2860,
+			"y": -394,
+			"width": 495,
+			"height": 90,
+			"color": "2"
+		},
+		{
+			"id": "g9c0",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Builder Business Flow.md",
+			"x": -3385,
+			"y": -244,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c1",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Auditor Design.md",
+			"x": -3035,
+			"y": -244,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c2",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - SOP Inputs and Rule Types.md",
+			"x": -2685,
+			"y": -244,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c3",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Credential Broker and Mera.md",
+			"x": -3385,
+			"y": -144,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c4",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Agent Payments.md",
+			"x": -3035,
+			"y": -144,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c5",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Connectors and Composio.md",
+			"x": -2685,
+			"y": -144,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c6",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Architecture and Stack.md",
+			"x": -3385,
+			"y": -44,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c7",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Screens Demo and MVP.md",
+			"x": -3035,
+			"y": -44,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c8",
+			"type": "file",
+			"file": "12 Brainstorm/Partnership Analysis Report.md",
+			"x": -2685,
+			"y": -44,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c9",
+			"type": "file",
+			"file": "12 Brainstorm/Brainstorm - Idea Evolution.md",
+			"x": -3385,
+			"y": 56,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c10",
+			"type": "file",
+			"file": "12 Brainstorm/Plan Constraints - Free vs Beginner.md",
+			"x": -3035,
+			"y": 56,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c11",
+			"type": "file",
+			"file": "12 Brainstorm/Monad Tools Evaluation.md",
+			"x": -2685,
+			"y": 56,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c12",
+			"type": "file",
+			"file": "12 Brainstorm/Brainstorm - Open Questions and Risks.md",
+			"x": -3385,
+			"y": 156,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c13",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Executive Summary.md",
+			"x": -3035,
+			"y": 156,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c14",
+			"type": "file",
+			"file": "12 Brainstorm/Competitions for Reeve.md",
+			"x": -2685,
+			"y": 156,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c15",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Payment Rails Indonesia.md",
+			"x": -3385,
+			"y": 256,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c16",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Sustainability and Crypto Layer.md",
+			"x": -3035,
+			"y": 256,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c17",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Sustainability Summary and SDGs.md",
+			"x": -2685,
+			"y": 256,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c18",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Owner App PWA.md",
+			"x": -3385,
+			"y": 356,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g9c19",
+			"type": "file",
+			"file": "12 Brainstorm/Reeve - Domain Packs.md",
+			"x": -3035,
+			"y": 356,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10",
+			"type": "group",
+			"label": "Pitch Deck",
+			"x": -3029,
+			"y": -1505,
+			"width": 1080,
+			"height": 710,
+			"color": "6"
+		},
+		{
+			"id": "g10h0",
+			"type": "file",
+			"file": "13 Pitch Deck/Pitch Deck Brief.md",
+			"x": -2999,
+			"y": -1445,
+			"width": 1020,
+			"height": 90,
+			"color": "6"
+		},
+		{
+			"id": "g10c0",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 01 - Cover.md",
+			"x": -2999,
+			"y": -1295,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c1",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 02 - Problem.md",
+			"x": -2649,
+			"y": -1295,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c2",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 03 - Insight.md",
+			"x": -2299,
+			"y": -1295,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c3",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 04 - Solution.md",
+			"x": -2999,
+			"y": -1195,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c4",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 05 - How It Works.md",
+			"x": -2649,
+			"y": -1195,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c5",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 06 - Product.md",
+			"x": -2299,
+			"y": -1195,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c6",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 07 - Trust Architecture.md",
+			"x": -2999,
+			"y": -1095,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c7",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 08 - Proof Layer.md",
+			"x": -2649,
+			"y": -1095,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c8",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 09 - Sustainability.md",
+			"x": -2299,
+			"y": -1095,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c9",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 10 - Market.md",
+			"x": -2999,
+			"y": -995,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c10",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 11 - Business Model.md",
+			"x": -2649,
+			"y": -995,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c11",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 12 - Competition.md",
+			"x": -2299,
+			"y": -995,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c12",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 13 - Status and Ask.md",
+			"x": -2999,
+			"y": -895,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g10c13",
+			"type": "file",
+			"file": "13 Pitch Deck/Slide 14 - Back Cover.md",
+			"x": -2649,
+			"y": -895,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g11",
+			"type": "group",
+			"label": "Design Resources",
+			"x": -1977,
+			"y": -2196,
+			"width": 1080,
+			"height": 410,
+			"color": "5"
+		},
+		{
+			"id": "g11h0",
+			"type": "file",
+			"file": "14 Design Resources/Design Resources.md",
+			"x": -1947,
+			"y": -2136,
+			"width": 1020,
+			"height": 90,
+			"color": "5"
+		},
+		{
+			"id": "g11c0",
+			"type": "file",
+			"file": "14 Design Resources/Design Reference Sites.md",
+			"x": -1947,
+			"y": -1986,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g11c1",
+			"type": "file",
+			"file": "14 Design Resources/UI Pattern Libraries - Mobbin and ScreensDesign.md",
+			"x": -1597,
+			"y": -1986,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g11c2",
+			"type": "file",
+			"file": "14 Design Resources/Component and Motion Libraries - React Bits and Hairline.md",
+			"x": -1247,
+			"y": -1986,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g11c3",
+			"type": "file",
+			"file": "14 Design Resources/Agent Skills - genjutsu and motionmaxxing.md",
+			"x": -1947,
+			"y": -1886,
+			"width": 320,
+			"height": 70
+		},
+		{
+			"id": "g11c4",
+			"type": "file",
+			"file": "14 Design Resources/Reeve - Landing Page.md",
+			"x": -1597,
+			"y": -1886,
+			"width": 320,
+			"height": 70
+		}
+	],
+	"edges": [
+		{
+			"id": "e-home-guide",
+			"fromNode": "home",
+			"fromSide": "bottom",
+			"toNode": "guide",
+			"toSide": "top",
+			"label": "conventions"
+		},
+		{
+			"id": "e-home-0",
+			"fromNode": "home",
+			"fromSide": "top",
+			"toNode": "g0h0",
+			"toSide": "bottom",
+			"label": "Hackathon",
+			"color": "1"
+		},
+		{
+			"id": "e-home-1",
+			"fromNode": "home",
+			"fromSide": "top",
+			"toNode": "g1h0",
+			"toSide": "bottom",
+			"label": "Stripe Projects",
+			"color": "5"
+		},
+		{
+			"id": "e-home-2",
+			"fromNode": "home",
+			"fromSide": "right",
+			"toNode": "g2h0",
+			"toSide": "left",
+			"label": "CreateOS Docs",
+			"color": "4"
+		},
+		{
+			"id": "e-home-3",
+			"fromNode": "home",
+			"fromSide": "right",
+			"toNode": "g3h0",
+			"toSide": "left",
+			"label": "Products and Pricing",
+			"color": "6"
+		},
+		{
+			"id": "e-home-4",
+			"fromNode": "home",
+			"fromSide": "right",
+			"toNode": "g4h0",
+			"toSide": "left",
+			"label": "Services",
+			"color": "3"
+		},
+		{
+			"id": "e-home-5",
+			"fromNode": "home",
+			"fromSide": "bottom",
+			"toNode": "g5h0",
+			"toSide": "top",
+			"label": "Industries",
+			"color": "2"
+		},
+		{
+			"id": "e-home-6",
+			"fromNode": "home",
+			"fromSide": "bottom",
+			"toNode": "g6h0",
+			"toSide": "top",
+			"label": "Case Studies and Blog",
+			"color": "1"
+		},
+		{
+			"id": "e-home-7",
+			"fromNode": "home",
+			"fromSide": "bottom",
+			"toNode": "g7h0",
+			"toSide": "top",
+			"label": "Integrations and Comparisons",
+			"color": "5"
+		},
+		{
+			"id": "e-home-8",
+			"fromNode": "home",
+			"fromSide": "left",
+			"toNode": "g8h0",
+			"toSide": "right",
+			"label": "Company",
+			"color": "3"
+		},
+		{
+			"id": "e-home-9",
+			"fromNode": "home",
+			"fromSide": "left",
+			"toNode": "g9h0",
+			"toSide": "right",
+			"label": "Brainstorm - Reeve",
+			"color": "2"
+		},
+		{
+			"id": "e-home-10",
+			"fromNode": "home",
+			"fromSide": "left",
+			"toNode": "g10h0",
+			"toSide": "right",
+			"label": "Pitch Deck",
+			"color": "6"
+		},
+		{
+			"id": "e-home-11",
+			"fromNode": "home",
+			"fromSide": "top",
+			"toNode": "g11h0",
+			"toSide": "bottom",
+			"label": "Design Resources",
+			"color": "5"
+		},
+		{
+			"id": "x0",
+			"fromNode": "g0h0",
+			"fromSide": "right",
+			"toNode": "g1h0",
+			"toSide": "left",
+			"label": "stack set up with",
+			"color": "4"
+		},
+		{
+			"id": "x1",
+			"fromNode": "g0h0",
+			"fromSide": "right",
+			"toNode": "g2h0",
+			"toSide": "left",
+			"label": "agent code runs in a sandbox",
+			"color": "4"
+		},
+		{
+			"id": "x2",
+			"fromNode": "g0c1",
+			"fromSide": "right",
+			"toNode": "g1c10",
+			"toSide": "left",
+			"label": "stripe projects add createos/project",
+			"color": "4"
+		},
+		{
+			"id": "x3",
+			"fromNode": "g0c1",
+			"fromSide": "right",
+			"toNode": "g2c1",
+			"toSide": "left",
+			"label": "first sandbox",
+			"color": "4"
+		},
+		{
+			"id": "x4",
+			"fromNode": "g0c2",
+			"fromSide": "right",
+			"toNode": "g2c5",
+			"toSide": "left",
+			"label": "sandbox features",
+			"color": "4"
+		},
+		{
+			"id": "x5",
+			"fromNode": "g0c2",
+			"fromSide": "right",
+			"toNode": "g2c2",
+			"toSide": "left",
+			"label": "Free vs Beginner plan",
+			"color": "4"
+		},
+		{
+			"id": "x6",
+			"fromNode": "g0c8",
+			"fromSide": "right",
+			"toNode": "g2c11",
+			"toSide": "left",
+			"label": "pay-per-run",
+			"color": "4"
+		},
+		{
+			"id": "x7",
+			"fromNode": "g0c11",
+			"fromSide": "right",
+			"toNode": "g1c2",
+			"toSide": "left",
+			"label": "provisioned via",
+			"color": "4"
+		},
+		{
+			"id": "x8",
+			"fromNode": "g0c12",
+			"fromSide": "right",
+			"toNode": "g2c3",
+			"toSide": "left",
+			"label": "CLI reference",
+			"color": "4"
+		},
+		{
+			"id": "x9",
+			"fromNode": "g0c13",
+			"fromSide": "right",
+			"toNode": "g2c7",
+			"toSide": "left",
+			"label": "Claude Code",
+			"color": "4"
+		},
+		{
+			"id": "x10",
+			"fromNode": "g1h0",
+			"fromSide": "bottom",
+			"toNode": "g1c10",
+			"toSide": "top",
+			"label": "CreateOS provider",
+			"color": "4"
+		},
+		{
+			"id": "x11",
+			"fromNode": "g3c0",
+			"fromSide": "top",
+			"toNode": "g2c0",
+			"toSide": "bottom",
+			"label": "docs",
+			"color": "4"
+		},
+		{
+			"id": "x12",
+			"fromNode": "g3c5",
+			"fromSide": "top",
+			"toNode": "g2c2",
+			"toSide": "bottom",
+			"label": "plan limits",
+			"color": "4"
+		},
+		{
+			"id": "x13",
+			"fromNode": "g7c0",
+			"fromSide": "top",
+			"toNode": "g1h0",
+			"toSide": "bottom",
+			"label": "Stripe",
+			"color": "4"
+		},
+		{
+			"id": "x14",
+			"fromNode": "g7h1",
+			"fromSide": "right",
+			"toNode": "g3c0",
+			"toSide": "left",
+			"label": "compared against",
+			"color": "4"
+		},
+		{
+			"id": "x15",
+			"fromNode": "g4h0",
+			"fromSide": "left",
+			"toNode": "g5h0",
+			"toSide": "right",
+			"label": "applied in",
+			"color": "4"
+		},
+		{
+			"id": "x16",
+			"fromNode": "g5h0",
+			"fromSide": "left",
+			"toNode": "g6h0",
+			"toSide": "right",
+			"label": "proof",
+			"color": "4"
+		},
+		{
+			"id": "x17",
+			"fromNode": "g2c9",
+			"fromSide": "right",
+			"toNode": "g3c2",
+			"toSide": "left",
+			"label": "builds agents for",
+			"color": "4"
+		},
+		{
+			"id": "x18",
+			"fromNode": "g6h1",
+			"fromSide": "top",
+			"toNode": "g3h0",
+			"toSide": "bottom",
+			"label": "covers",
+			"color": "4"
+		},
+		{
+			"id": "x19",
+			"fromNode": "g9h1",
+			"fromSide": "right",
+			"toNode": "g0h0",
+			"toSide": "left",
+			"label": "entry for",
+			"color": "4"
+		},
+		{
+			"id": "x20",
+			"fromNode": "g9c9",
+			"fromSide": "right",
+			"toNode": "g0c2",
+			"toSide": "left",
+			"label": "started from",
+			"color": "4"
+		},
+		{
+			"id": "x21",
+			"fromNode": "g9c1",
+			"fromSide": "right",
+			"toNode": "g2c5",
+			"toSide": "left",
+			"label": "egress blocked, code to data",
+			"color": "4"
+		},
+		{
+			"id": "x22",
+			"fromNode": "g9c4",
+			"fromSide": "right",
+			"toNode": "g2c11",
+			"toSide": "left",
+			"label": "not the same as Stripe MPP",
+			"color": "4"
+		},
+		{
+			"id": "x23",
+			"fromNode": "g9c4",
+			"fromSide": "right",
+			"toNode": "g1h0",
+			"toSide": "left",
+			"label": "agent purchases",
+			"color": "4"
+		},
+		{
+			"id": "x24",
+			"fromNode": "g9c6",
+			"fromSide": "right",
+			"toNode": "g1c10",
+			"toSide": "left",
+			"label": "createos/project",
+			"color": "4"
+		},
+		{
+			"id": "x25",
+			"fromNode": "g9c10",
+			"fromSide": "right",
+			"toNode": "g3c5",
+			"toSide": "left",
+			"label": "plan limits",
+			"color": "4"
+		},
+		{
+			"id": "x26",
+			"fromNode": "g9c3",
+			"fromSide": "right",
+			"toNode": "g3c9",
+			"toSide": "left",
+			"label": "placeholder swap at egress",
+			"color": "4"
+		},
+		{
+			"id": "x27",
+			"fromNode": "g10h0",
+			"fromSide": "right",
+			"toNode": "g11h0",
+			"toSide": "left",
+			"label": "visual references",
+			"color": "4"
+		},
+		{
+			"id": "x28",
+			"fromNode": "g11h0",
+			"fromSide": "bottom",
+			"toNode": "g9c7",
+			"toSide": "top",
+			"label": "landing, dashboard, demo film",
+			"color": "4"
+		}
+	]
+}
