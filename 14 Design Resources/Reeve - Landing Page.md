@@ -16,7 +16,7 @@ up: "[[Design Resources]]"
 > [!summary] Summary
 > - Built 18 Oct 2026 in `reeve/apps/landing` (React 19, Vite 8, GSAP, React Bits, Hairline) with the genjutsu `paint` pipeline. Run it with `npm run dev -w @reeve/landing` (port 5174).
 > - **Hero = a connected business flow.** Six product panels (Describe → Compile → Simulate → Audit → Approve → Run) on a tilted stage, joined by a thread that lights step by step while a camera travels between them. The loop opens on a wide shot, dives into each step, then pulls back once the kos is live.
-> - **Every number is real**: the Kos Melati SOP, the 18 Oct CreateOS run log and timings (7/7, 11/11, 29/29, 3.9 s), the real ledger (#0 FAIL then PASS), and the engine's own 185 simulation events (`fixtures/kos-melati/sim-events.json`) for every room and day. See [[Reeve - Owner App PWA]] for the correction this needed.
+> - **Every number is real**: the Kos Melati SOP, the 13 Nov CreateOS run log and timings (7/7, 11/11, 61/61, 4.4 s; see [[Reeve - Auditor Planted Defects]]), the real ledger from 18 Oct (#0 FAIL then PASS), and the engine's own 185 simulation events (`fixtures/kos-melati/sim-events.json`) for every room and day. See [[Reeve - Owner App PWA]] for the correction this needed.
 > - Design system and theses: `reeve/apps/landing/MASTER.md`.
 
 ## How the hero got here
